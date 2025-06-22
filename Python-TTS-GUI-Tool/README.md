@@ -25,5 +25,5 @@ To run this application, you need Python 3 installed on your system.
 
 If you are using Git, clone the repository:
 ```bash
-git clone https://github.com/your-username/Python-TTS-GUI-Tool.git
+git clone https://github.com/StephenwwW/Python-TTS-GUI-Tool.git
 cd Python-TTS-GUI-Tool
