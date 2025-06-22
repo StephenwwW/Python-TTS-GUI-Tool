@@ -1,0 +1,4 @@
+pyttsx3
+gTTS
+edge-tts
+pygame
